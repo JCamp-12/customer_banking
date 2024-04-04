@@ -12,7 +12,6 @@
 * The interest earned is passed to the set balance method using the instance of the Account class. (6 points)
 * The updated balance and interest earned are returned by the function. (5 points)
 
-
 ### Create the CD Account Function (35 points)
 
 * The Account class from the Accounts.py file is imported. (4 points)
